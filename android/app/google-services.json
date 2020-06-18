@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576873284731",
+    "firebase_url": "https://fir-ci-e5afe.firebaseio.com",
+    "project_id": "fir-ci-e5afe",
+    "storage_bucket": "fir-ci-e5afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576873284731:android:1e381239edd827b3d94ede",
+        "android_client_info": {
+          "package_name": "com.skitetech.democi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576873284731-smbqhpplkrqlj23bcng7l96afk9sbcq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCpEab2ShTx-71i2rrFXfI1gCZv-044I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576873284731-smbqhpplkrqlj23bcng7l96afk9sbcq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

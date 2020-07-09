@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
     return FlavorBanner(
           child: Scaffold(
         appBar: AppBar(
-          title: Text('CD/CI Demo'),
+          title: Text('CD/CI Demo with Docker'),
         ),
         body: SingleChildScrollView(
           padding: const EdgeInsets.all(16.0),
